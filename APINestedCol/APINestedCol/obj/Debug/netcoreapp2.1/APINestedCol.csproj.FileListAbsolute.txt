@@ -1,0 +1,13 @@
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\bin\Debug\netcoreapp2.1\APINestedCol.deps.json
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\bin\Debug\netcoreapp2.1\APINestedCol.runtimeconfig.json
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\bin\Debug\netcoreapp2.1\APINestedCol.runtimeconfig.dev.json
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\bin\Debug\netcoreapp2.1\APINestedCol.dll
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\bin\Debug\netcoreapp2.1\APINestedCol.pdb
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.csproj.CoreCompileInputs.cache
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.RazorAssemblyInfo.cache
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.RazorAssemblyInfo.cs
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.AssemblyInfoInputs.cache
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.AssemblyInfo.cs
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.RazorTargetAssemblyInfo.cache
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.dll
+C:\Users\16038\source\repos\APINestedCol\APINestedCol\obj\Debug\netcoreapp2.1\APINestedCol.pdb
